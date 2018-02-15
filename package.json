@@ -30,8 +30,9 @@
   "license": "MIT",
   "dependencies": {
     "debug": "^2.6.3",
+    "events": "^2.0.0",
     "generic-pool": "^3.1.7",
-    "tedious": "pisinr/tedious"
+    "tedious": "file:../tedious"
   },
   "devDependencies": {
     "mocha": "^2.1.0",
